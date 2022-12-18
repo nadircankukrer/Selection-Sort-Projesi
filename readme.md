@@ -32,3 +32,9 @@ Soru - 4
 - [2,3,4,8,7,9,5,15,6] En küçük üçüncü eleman 3. sıradaki elemanla yer değiştirir. (n-2)
 - [2,3,4,5,7,9,8,15,6] En küçük dördüncü eleman 4. sıradaki elemanla yer değiştirir. (n-3)
 
+
+
+------
+
+www.patika.dev
+
